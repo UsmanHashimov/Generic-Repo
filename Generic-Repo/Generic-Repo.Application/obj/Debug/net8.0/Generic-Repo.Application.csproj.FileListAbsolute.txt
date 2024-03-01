@@ -1,0 +1,17 @@
+C:\Users\A C E R   N I T R O\Documents\.NET\Uy ishi\Generic-Repo\Generic-Repo.Application\bin\Debug\net8.0\Generic-Repo.Application.deps.json
+C:\Users\A C E R   N I T R O\Documents\.NET\Uy ishi\Generic-Repo\Generic-Repo.Application\bin\Debug\net8.0\Generic-Repo.Application.runtimeconfig.json
+C:\Users\A C E R   N I T R O\Documents\.NET\Uy ishi\Generic-Repo\Generic-Repo.Application\bin\Debug\net8.0\Generic-Repo.Application.dll
+C:\Users\A C E R   N I T R O\Documents\.NET\Uy ishi\Generic-Repo\Generic-Repo.Application\bin\Debug\net8.0\Generic-Repo.Application.pdb
+C:\Users\A C E R   N I T R O\Documents\.NET\Uy ishi\Generic-Repo\Generic-Repo.Application\bin\Debug\net8.0\Generic-Repo.Domain.dll
+C:\Users\A C E R   N I T R O\Documents\.NET\Uy ishi\Generic-Repo\Generic-Repo.Application\bin\Debug\net8.0\Generic-Repo.Domain.pdb
+C:\Users\A C E R   N I T R O\Documents\.NET\Uy ishi\Generic-Repo\Generic-Repo.Application\obj\Debug\net8.0\Generic-Repo.Application.csproj.AssemblyReference.cache
+C:\Users\A C E R   N I T R O\Documents\.NET\Uy ishi\Generic-Repo\Generic-Repo.Application\obj\Debug\net8.0\Generic-Repo.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\A C E R   N I T R O\Documents\.NET\Uy ishi\Generic-Repo\Generic-Repo.Application\obj\Debug\net8.0\Generic-Repo.Application.AssemblyInfoInputs.cache
+C:\Users\A C E R   N I T R O\Documents\.NET\Uy ishi\Generic-Repo\Generic-Repo.Application\obj\Debug\net8.0\Generic-Repo.Application.AssemblyInfo.cs
+C:\Users\A C E R   N I T R O\Documents\.NET\Uy ishi\Generic-Repo\Generic-Repo.Application\obj\Debug\net8.0\Generic-Repo.Application.csproj.CoreCompileInputs.cache
+C:\Users\A C E R   N I T R O\Documents\.NET\Uy ishi\Generic-Repo\Generic-Repo.Application\obj\Debug\net8.0\Generic-.89CF5ADF.Up2Date
+C:\Users\A C E R   N I T R O\Documents\.NET\Uy ishi\Generic-Repo\Generic-Repo.Application\obj\Debug\net8.0\Generic-Repo.Application.dll
+C:\Users\A C E R   N I T R O\Documents\.NET\Uy ishi\Generic-Repo\Generic-Repo.Application\obj\Debug\net8.0\refint\Generic-Repo.Application.dll
+C:\Users\A C E R   N I T R O\Documents\.NET\Uy ishi\Generic-Repo\Generic-Repo.Application\obj\Debug\net8.0\Generic-Repo.Application.pdb
+C:\Users\A C E R   N I T R O\Documents\.NET\Uy ishi\Generic-Repo\Generic-Repo.Application\obj\Debug\net8.0\Generic-Repo.Application.genruntimeconfig.cache
+C:\Users\A C E R   N I T R O\Documents\.NET\Uy ishi\Generic-Repo\Generic-Repo.Application\obj\Debug\net8.0\ref\Generic-Repo.Application.dll

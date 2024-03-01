@@ -1,0 +1,6 @@
+@Generic_Repo.API_HostAddress = http://localhost:5240
+
+GET {{Generic_Repo.API_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
